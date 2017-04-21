@@ -1,0 +1,29 @@
+Command line:
+   MotorDriver_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51142
+
+Fri Apr 21 02:35:48 2017
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 236.179 Meg
+
+ Total Signals          : 26
+ Total Nets             : 67
+ Total Signal Drivers   : 12
+ Total Blocks           : 4
+ Total Primitive Blocks : 2
+ Total Processes        : 16
+ Total Traceable Variables  : 26
+ Total Scalar Nets and Variables : 247
+Total Line Count : 41
+
+ Total Simulation Time: 0.15 sec
+
+ Current Memory Usage: 311.681 Meg
+
+Fri Apr 21 02:37:20 2017
+
