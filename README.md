@@ -10,3 +10,7 @@ Here is my list of projects small and large, easy and difficult:
 
 3)  FPGA autonomous Robot : Just for fun. Manipulate dc/servo motors, trigger ultrasonic sensors, get feedback from encoders. Everything can be done in parallel and at great speed.
 
+Real Value:
+
+4)  Application to design front-end web pages without code. Just drag and drop.
+
