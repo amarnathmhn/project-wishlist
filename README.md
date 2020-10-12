@@ -13,4 +13,7 @@ Here is my list of projects small and large, easy and difficult:
 Real Value:
 
 4)  Application to design front-end web pages without code. Just drag and drop.
+5)  Idea tracker
+6)  Project Manager
+7)  Todo List with reminders and float around
 
